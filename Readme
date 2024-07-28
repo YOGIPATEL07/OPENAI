@@ -1,0 +1,44 @@
+OpenAI Project
+Description
+This project is a Node.js application that uses Tailwind CSS for styling. The project includes configurations and dependencies necessary to run a basic application.
+
+Features
+Integration with Tailwind CSS for styling.
+Environment variable configuration.
+Installation
+Clone the repository:
+
+
+git clone https://github.com/YOGIPATEL07/OPENAI.git
+cd openai
+Install dependencies:
+
+
+npm install
+Set up environment variables:
+Create a .env file in the root directory and add the following:
+
+env
+API_KEY="your_api_key_here"
+Usage
+Run the application:
+
+
+npm start
+Configure Tailwind CSS:
+Edit the tailwind.config.js file as needed for your project.
+
+Scripts
+npm test: Runs the test script (currently a placeholder).
+Configuration
+Tailwind CSS: Configuration file located at tailwind.config.js.
+Environment Variables
+API_KEY: Your API key for accessing required services.
+License
+This project is licensed under the ISC License.
+
+Author
+YOGI PATEL
+ANSH PAGHDAL
+ARYAN UKANI
+PRANAV BHAVSAR
